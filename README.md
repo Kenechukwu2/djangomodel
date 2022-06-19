@@ -1,0 +1,2 @@
+# djangomodel
+Models for Dajango
